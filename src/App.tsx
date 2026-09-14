@@ -54,9 +54,6 @@ export default function App() {
             className="relative z-10 mx-auto flex min-h-screen max-w-5xl flex-col items-center gap-12 px-4 py-10 sm:px-6"
           >
             <header className="text-center">
-              <span className="inline-block rounded-full bg-rose-100 px-4 py-1 text-xs font-semibold uppercase tracking-widest text-rose-500">
-                Happy National Girlfriend's Day!
-              </span>
               <h1 className="mt-4 font-serif text-4xl font-bold text-rose-600 sm:text-5xl">
                 To My Lovely Girl
               </h1>
