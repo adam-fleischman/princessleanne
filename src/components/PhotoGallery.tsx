@@ -38,7 +38,8 @@ const DESCRIPTIONS: Record<string, string> = {
   "valentine": "We r so silly w the filter haha - 4/3/25",
   "zz1": "gorgeous girl sitting by beautiful view - 8/13/26",
   "zz2": "aesthetic picture of aesthetic leanne - 8/18/26",
-  "zz3": "A real, beautiful princess with her princess dress at a princess palace"
+  "zz3": "A real, beautiful princess with her princess dress at a princess palace - 8/19/26",
+  "zz4": "Boyfriend and girlfriend taking cute picture before party! - 9/7/26"
 };
 
 const DEFAULT_DESCRIPTION = "This picture has no description for some reason! Just know that it is of adorable puppy princess!";
@@ -72,7 +73,8 @@ export default function PhotoGallery() {
     "valentine.JPG",
     "zz1.jpeg",
     "zz2.jpeg",
-    "zz3.jpeg"
+    "zz3.jpeg",
+    "zz4.JPG"
   ];
 
   const found: Photo[] = FILES.map((file) => {
