@@ -27,10 +27,15 @@ export default function LoveLetter() {
             <p>
               I know that this return to long distance has been rough, and I've largely been the cause of that. I'm truly sorry about hiding things from you and for not communicating better, 
               particularly with things related to this frat. I'll put a stop to this stuff both by leaving the frat and by avoiding situations where I'll be prone to making mistakes, like at parties. 
-              I know it's dumb, but I really do love you and I don't want to keep hurting you our ruining your college experience by making you so upset that you can't be present with your friends. 
+              I know it's dumb, but I really do love you and I don't want to keep hurting you or ruining your college experience by making you so upset that you can't be present with your friends. 
             </p>
             <p>
-              I love you so much Leanne. I think about you all throughout my day and I miss you every single night. I can't wait for when I get to see you again and spend time with you and make you happy. 
+              I love you so much Leanne. I think about you all throughout my day and I miss you every single night. I miss seeing your smile in person and hearing your laugh right next to me. I miss your silly
+               humor or the way you'll insist I lay close to you as we snuggle in bed. I miss how you rest your head against me and pull me close, making me feel safer than I've ever felt before. 
+              I miss your face, your hair, your voice, and everything about you.
+            </p>
+            <p>
+              I can't wait for when I get to see you again and spend time with you and make you happy. 
               I hope this photo collage makes you as happy as it makes me, as I get to look at my beautiful and adorable girlfriend.
             </p>
             <p>
