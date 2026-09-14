@@ -21,9 +21,6 @@ export default function LoveLetter() {
           <p className="font-serif text-2xl text-rose-500">Dear Leanne,</p>
           <div className="mt-4 space-y-4 text-rose-700/90">
             <p>
-              Hi Leanne! This is where our digital photo gallery will live! I hope you look through these pictures time to time to remember how you cute are!
-            </p>
-            <p>
               It was so sweet of you to come down and see me, and I really can't wait for you to come again and for us to see each other more! And for when I get to visit you! 
               I love you so very much and I miss you every single day.
             </p>
